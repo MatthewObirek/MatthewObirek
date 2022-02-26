@@ -2,9 +2,8 @@
 <body>
   <h3>WELCOME<h3/>
   
-  <h5>I am a UBC Okanagan student in my third year of Computer Science.</h5>
-  <br>
-  <h5>Currently, I am working on <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">M.A.A.M.Y</a>, a Robo-Butler written in python with the NLTK.</h5>
+  <h5>I am a UBC Okanagan student in my third year of Computer Science. Currently, I am working on <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">M.A.A.M.Y</a>, a Robo-Butler written in Python with the NLTK.</h5>
+    <br>
   <h4>University Projects</h4>
   <table>
     <tbody>
