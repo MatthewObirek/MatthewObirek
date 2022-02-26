@@ -1,7 +1,28 @@
 <!DOCTYPE HTML>
-
 <body>
   <h3>WELCOME<h3/>
+  
+  <h5>I am a UBC Okanagan student in my third year of Computer Science.</h5>
+  <br>
+  <h5>Currently, I am working on <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">M.A.A.M.Y</a>, a Robo-Butler written in python with the NLTK.</h5>
+  <h4>University Projects</h4>
+  <table>
+    <tbody>
+      <tr><th>Language</th><th>Title and Link</th></tr>
+      <tr><th>Java & HTML</th><th><a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Website</a></th></tr>
+      <tr><th>Python</th><th><a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">M.A.A.M.Y chat-bot</a></th></tr>
+    </tbody>
+  </table>
+    
+  <h4>Personal Projects</h4>  
+  <table>
+    <tbody>
+      <tr><th>Language</th><th>Title and Link</th></tr>
+      <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/ThreadTest">ThreadTest</a></th></tr>
+      <tr><th>C</th><th><a href="https://github.com/MatthewObirek/CUnitTest">CUnitTest</a></th></tr>
+    </tbody>
+  </table>
+
 <body/>
 
 <!--
