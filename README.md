@@ -14,7 +14,7 @@
           <tr><th>Language</th><th>Title and Link</th></tr>
           <tr><th>JSP & SQL</th><th><a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery</a></th></tr>
           <tr><th>Python</th><th><a href="https://github.com/MatthewObirek/COSC310-chatbot">M.A.A.M.Y chat-bot</a></th></tr>
-          <tr><th>C/C++</th><th><a href="https://github.com/MatthewObirek/Cosc315_project3"></a>Virtual File System</th></tr>
+          <tr><th>C/C++</th><th><a href="https://github.com/MatthewObirek/Cosc315_project3">Virtual File System</a></th></tr>
         </tbody>
       </table>
       </th><th>
@@ -28,11 +28,11 @@
     </th></tr>
     </tbody>
   </table>
-    <h4>Skills</h4>
-    Make
-    CMake
-    GIT
-    Jira
+    <h4>Build and Project Management Tools</h4>
+    <a href="https://www.gnu.org/software/make/">Make</a><br>
+    <a href="https://cmake.org/">CMake</a><br>
+    <a href="https://git-scm.com/">Git</a><br>
+    <a href="https://www.atlassian.com/software/jira">Jira</a><br>
 <!--
 **MatthewObirek/MatthewObirek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
