@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <body>
-  <h1>WELCOME<h1/>
+  <h1>WELCOME</h1>
   <h5>I am a UBC Okanagan student in my fourth year of Computer Science. Currently, I am working on <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">M.A.A.M.Y</a>, a Robo-Butler written in Python with the NLTK, and a<a href="https://github.com/MatthewObirek/Cosc315_project3"> Virtual File System</a>.</h5>
     <br>
   <h2>Current Projects</h2>
