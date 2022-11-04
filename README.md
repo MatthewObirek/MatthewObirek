@@ -33,12 +33,26 @@
   </table>
     <br>
   <h2>Educatoion</h2>
+    <h4>University of British Columbia, Okanagan Campus - Kelowna</h4>
+  <h5>2019-Present | Bachelor of Science - Major in Computer Science, Minor in Economics<br>Related Coursework:
+    <ul>
+      <li>Introduction into Operating Systems (COSC 315) - <a href="https://github.com/MatthewObirek/Cosc315_project3">See Here</a></li>
+      <li>Introduction into Networking (COSC 328)</li>
+      <li>Introduction into Databases (COSC 304) - <a href="https://github.com/MatthewObirek/COSC304_GroupProject">See Here</a></li>
+      <li>Introduction into Parallel Computing (COSC 407)</li>
+      <li>Software Engineering (COSC 310) - <a href="https://github.com/MatthewObirek/COSC310-Chatbot">See Here</a></li>
+      <li>Public Sector Economics (ECON 352)</li>
+      <li>Natural Resource Economics (ECON 372)</li>
+    </ul>
+  </h5>
     <br>
    <h3>Build and Project Management Tools</h3>
-    <a href="https://www.gnu.org/software/make/">Make</a><br>
-    <a href="https://cmake.org/">CMake</a><br>
-    <a href="https://git-scm.com/">Git</a><br>
-    <a href="https://www.atlassian.com/software/jira">Jira</a><br>
+    <ul>
+      <li><a href="https://www.gnu.org/software/make/">Make</a></li>
+      <li><a href="https://cmake.org/">CMake</a></li>
+      <li><a href="https://git-scm.com/">Git</a></li>
+      <li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
+    </ul>
 <!--
 **MatthewObirek/MatthewObirek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
