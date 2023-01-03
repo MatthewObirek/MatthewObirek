@@ -12,6 +12,7 @@
       <table>
         <tbody>
           <tr><th>Language</th><th>Title and Link</th></tr>
+          <tr><th>Android</th><th><a href="https://github.com/MatthewObirek/MediTake">MediTake</a></th></tr>
           <tr><th>JSP & SQL</th><th><a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery</a></th></tr>
           <tr><th>Python</th><th><a href="https://github.com/MatthewObirek/COSC310-chatbot">M.A.A.M.Y chat-bot</a></th></tr>
           <tr><th>C/C++</th><th><a href="https://github.com/MatthewObirek/Cosc315_project3">Virtual File System</a></th></tr>
@@ -21,6 +22,7 @@
       <table>
         <tbody>
           <tr><th>Language</th><th>Title and Link</th></tr>
+          <tr><th>Kotlin</th><th><a href="https://github.com/MatthewObirek/CalendarApp">CalendarApp</a></th></tr>
           <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/ThreadTest">ThreadTest</a></th></tr>
           <tr><th>C</th><th><a href="https://github.com/MatthewObirek/CUnitTest">CUnitTest</a></th></tr>
         </tbody>
