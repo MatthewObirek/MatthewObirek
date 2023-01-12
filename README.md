@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>WELCOME</h1>
-  <h5>I am a UBC Okanagan student completing my fourth year of a Computer Science Major. Throughout my time at University, I have been in many group projects and written code in many different group settings. The completed projects I am most proud of are the <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">Robo-Butler</a> written in Python with the NLTK, and the <a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery Store</a> that uses SQL to keep a database of products, orders, and customers. I am currently working on a smart phone project called <a href="https://github.com/MatthewObirek/MediTake">MediTake</a> for my Human Computer Interaction class that reminds uses when to take medication.</h5>
+  <h5>I am a UBC Okanagan student completing my fourth year of a Computer Science Major. Throughout my time at University, I have been in many group projects and written code in many different group settings. The completed projects I am most proud of are the <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">Robo-Butler</a> written in Python with the NLTK, and the <a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery Store</a> that uses SQL to keep a database of products, orders, and customers. I have finished a smart phone project called <a href="https://github.com/MatthewObirek/MediTake">MediTake</a> for my Human Computer Interaction class that reminds uses when to take medication. I am working on a personal project that combines a task tracker, and a calendar togeother.</h5>
     <br>
   <h2>Experience</h2>
   <table>
