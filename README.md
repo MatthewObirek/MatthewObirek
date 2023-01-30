@@ -24,7 +24,7 @@
           <tr><th>Language</th><th>Title and Link</th></tr>
           <tr><th>Kotlin</th><th><a href="https://github.com/MatthewObirek/CalendarApp">CalendarApp</a></th></tr>
           <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/ThreadTest">ThreadTest</a></th></tr>
-          <tr><th>C</th><th><a href="https://github.com/MatthewObirek/CUnitTest">CUnitTest</a></th></tr>
+          <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/CppUnitTest">CppUnitTest</a></th></tr>
         </tbody>
       </table>
     </th></tr>
