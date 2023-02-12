@@ -25,6 +25,7 @@
           <tr><th>Kotlin</th><th><a href="https://github.com/MatthewObirek/CalendarApp">CalendarApp</a></th></tr>
           <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/ThreadTest">ThreadTest</a></th></tr>
           <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/CppUnitTest">CppUnitTest</a></th></tr>
+          <tr><th>Python</th><th><a href="https://github.com/MatthewObirek/Simulation">PathFinder</a></th></tr>
         </tbody>
       </table>
     </th></tr>
