@@ -32,7 +32,7 @@
     </tbody>
   </table>
     <br>
-  <h2>Educatoion</h2>
+  <h2>Education</h2>
     <h4>University of British Columbia, Okanagan Campus - Kelowna</h4>
   <h5>2019-Present | Bachelor of Science - Major in Computer Science, Minor in Economics<br>Related Coursework:
     <ul>
