@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>WELCOME</h1>
-  <h5>I am a UBC Okanagan student completing my fourth year of a Computer Science Major. Throughout my time at University, I have been in many group projects and written code in many different group settings. The completed projects I am most proud of are the <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">Robo-Butler</a> written in Python with the NLTK, and the <a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery Store</a> that uses SQL to keep a database of products, orders, and customers. I have finished a smart phone project called <a href="https://github.com/MatthewObirek/MediTake">MediTake</a> for my Human Computer Interaction class that reminds users when to take medication. I am working on a personal project that combines a task tracker, and a calendar togeother.</h5>
+  <h5>I am a UBC Okanagan student completing my fourth year of a Computer Science Major. Throughout my time at University, I have been in many group projects and written code in many different group settings. The completed projects I am most proud of are the <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">Robo-Butler</a> written in Python with the NLTK, and the <a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery Store</a> that uses SQL to keep a database of products, orders, and customers. I have finished a smart phone project called <a href="https://github.com/MatthewObirek/MediTake">MediTake</a> for my Human Computer Interaction class that reminds users when to take medication. I am currently completing my Capstone project. I am working on a personal project that combines a task tracker, and a calendar together.</h5>
     <br>
   <h2>Experience</h2>
   <table>
@@ -36,12 +36,18 @@
     <h4>University of British Columbia, Okanagan Campus - Kelowna</h4>
   <h5>2019-Present | Bachelor of Science - Major in Computer Science, Minor in Economics<br>Related Coursework:
     <ul>
+      <li>Introduction into Computer Graphics (COSC 414) </li>
+      <li>Human Computer Interaction (COSC 341) - <a href="https://github.com/MatthewObirek/MediTake">See Here</a></li>
+      <li>Project Management (COSC 305) </li>
+      <li>Network Science (COSC 421)</li>
       <li>Introduction into Operating Systems (COSC 315) - <a href="https://github.com/MatthewObirek/Cosc315_project3">See Here</a></li>
       <li>Introduction into Networking (COSC 328)</li>
       <li>Introduction into Databases (COSC 304) - <a href="https://github.com/MatthewObirek/COSC304_GroupProject">See Here</a></li>
       <li>Introduction into Parallel Computing (COSC 407)</li>
       <li>Software Engineering (COSC 310) - <a href="https://github.com/MatthewObirek/COSC310-Chatbot">See Here</a></li>
+      <li>Money and Banking (ECON 345)</li>
       <li>Public Sector Economics (ECON 352)</li>
+      <li>Environmental Economics (ECON 371)</li>
       <li>Natural Resource Economics (ECON 372)</li>
     </ul>
   </h5>
