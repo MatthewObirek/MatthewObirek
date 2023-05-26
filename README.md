@@ -36,19 +36,32 @@
     <h4>University of British Columbia, Okanagan Campus - Kelowna</h4>
   <h5>2019-Present | Bachelor of Science - Major in Computer Science, Minor in Economics<br>Related Coursework:
     <ul>
-      <li>Introduction into Computer Graphics (COSC 414) </li>
-      <li>Human Computer Interaction (COSC 341) - <a href="https://github.com/MatthewObirek/MediTake">See Here</a></li>
-      <li>Project Management (COSC 305) </li>
-      <li>Network Science (COSC 421)</li>
-      <li>Introduction into Operating Systems (COSC 315) - <a href="https://github.com/MatthewObirek/Cosc315_project3">See Here</a></li>
-      <li>Introduction into Networking (COSC 328)</li>
-      <li>Introduction into Databases (COSC 304) - <a href="https://github.com/MatthewObirek/COSC304_GroupProject">See Here</a></li>
-      <li>Introduction into Parallel Computing (COSC 407)</li>
-      <li>Software Engineering (COSC 310) - <a href="https://github.com/MatthewObirek/COSC310-Chatbot">See Here</a></li>
-      <li>Money and Banking (ECON 345)</li>
-      <li>Public Sector Economics (ECON 352)</li>
-      <li>Environmental Economics (ECON 371)</li>
-      <li>Natural Resource Economics (ECON 372)</li>
+      <table>
+        <tbody>
+          <tr><th>Computer Science Courses</th><th>Economics Courses</hr></tr>
+          <tr>
+            <th>
+              <li>Network Science (COSC 421)</li>
+              <li>Introduction into Computer Graphics (COSC 414) </li>
+              <li>Introduction into Parallel Computing (COSC 407)</li>
+              <li>Human Computer Interaction (COSC 341) - <a href="https://github.com/MatthewObirek/MediTake">See Here</a></li>
+              <li>Introduction into Networking (COSC 328)</li>
+              <li>Introduction into Operating Systems (COSC 315) - <a href="https://github.com/MatthewObirek/Cosc315_project3">See Here</a></li>
+              <li>Software Engineering (COSC 310) - <a href="https://github.com/MatthewObirek/COSC310-Chatbot">See Here</a></li> 
+              <li>Project Management (COSC 305) </li>
+              <li>Introduction into Databases (COSC 304) - <a href="https://github.com/MatthewObirek/COSC304_GroupProject">See Here</a></li>
+            </th>
+            <th>
+              <li>Natural Resource Economics (ECON 372)</li>
+              <li>Environmental Economics (ECON 371)</li>
+              <li>Labour Economics (ECON 360)</li>
+              <li>Public Sector Economics (ECON 352)</li>
+              <li>Money and Banking (ECON 345)</li>
+              <li>Poverty and Inequality (ECON 260)</li>
+            </th>
+          </tr>
+        </tbody>
+      </table>
     </ul>
   </h5>
     <br>
