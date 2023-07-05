@@ -66,12 +66,28 @@
   </h5>
     <br>
    <h3>Build and Project Management Tools</h3>
-    <ul>
-      <li><a href="https://www.gnu.org/software/make/">Make</a></li>
-      <li><a href="https://cmake.org/">CMake</a></li>
-      <li><a href="https://git-scm.com/">Git</a></li>
-      <li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
-    </ul>
+    <table>
+    <tbody>
+      <tr><th>Build/Production Tools</th><th>Project Management Tools</hr></tr> 
+      <th>
+        <ul>
+          <li><a href="https://www.gnu.org/software/make/">Make</a></li>
+          <li><a href="https://cmake.org/">CMake</a></li>
+          <li>Docker/Docker-compose</li>
+          <li>DroneCI</li>
+        </ul>
+       </th>
+       <th>
+         <ul> 
+           <li><a href="https://git-scm.com/">Git</a></li>
+           <li><a href="https://www.atlassian.com/software/jira">Jira</a></li>
+           <li>Kanban</li>
+           <li>Toggl (prefered)</li>
+           <li>Clockify</li>
+         </ul>
+       </th>
+    </tbody>
+    </table>
 <!--
 **MatthewObirek/MatthewObirek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
