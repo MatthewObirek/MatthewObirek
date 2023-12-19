@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>WELCOME</h1>
-  <b>I am a Computer Scientist who graduated from UBC Okanagan with a Computer Science Major and Economics Minor. Throughout my time at University, I have been in many group projects and written code in many different group settings. The completed projects I am most proud of are my <a href="https://github.com/MatthewObirek/project-3-a-automating-database-question-generation-automating-db-q-gen-marking-team-a">Capstone Software Engineering Project</a>, a <a href="https://www.prairielearn.com/">PrairieLearn</a> Instance that implements the <a href="https://dbis-uibk.github.io/relax/landing">RelaX relational algebra editor</a>, and an SQL editor for University level database questions, the <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">Robo-Butler</a> written in Python with the NLTK, and the <a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery Store</a> that uses SQL to keep a database of products, orders, and customers. I have finished a smartphone project called <a href="https://github.com/MatthewObirek/MediTake">MediTake</a> for my Human-Computer Interaction class that reminds users when to take medication. I am working on a personal project that combines a task tracker, and a calendar together.</b>
+  <b>I am a Computer Scientist who graduated from UBC Okanagan with a Computer Science Major and Economics Minor. Throughout my time at University, I have been in many group projects and written code in many different group settings. The completed projects I am most proud of are my <a href="https://github.com/MatthewObirek/project-3-a-automating-database-question-generation-automating-db-q-gen-marking-team-a">Capstone Software Engineering Project</a>, a <a href="https://www.prairielearn.com/">PrairieLearn</a> Instance that implements the <a href="https://dbis-uibk.github.io/relax/landing">RelaX relational algebra editor</a>, and an SQL editor for University level database questions, the <a href="https://github.com/Software-Engineering-Group-4-Maamy/chat-bot">Robo-Butler</a> written in Python with the NLTK, and the <a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery Store</a> that uses SQL to keep a database of products, orders, and customers. I have finished a smartphone project called <a href="https://github.com/MatthewObirek/MediTake">MediTake</a> for my Human-Computer Interaction class that reminds users when to take medication. I am working on a personal project that uses C++ and PostgreSQL backend and a Javascript frontend for a <a href="https://github.com/MatthewObirek/SMIdea">Social Media platform</a>.</b>
     <br>
   <h2>Experience</h2>
   <table>
@@ -12,6 +12,7 @@
       <table>
         <tbody>
           <tr><th>Language</th><th>Title and Link</th></tr>
+          <tr><th>Python/SQL/javascript</th><th><a href="https://github.com/MatthewObirek/project-3-a-automating-database-question-generation-automating-db-q-gen-marking-team-a">PrairieLearn RelaX/SQL integration</a></th></tr>
           <tr><th>Android</th><th><a href="https://github.com/MatthewObirek/MediTake">MediTake</a></th></tr>
           <tr><th>JSP & SQL</th><th><a href="https://github.com/MatthewObirek/COSC304_GroupProject">Online Grocery</a></th></tr>
           <tr><th>Python</th><th><a href="https://github.com/MatthewObirek/COSC310-chatbot">M.A.A.M.Y chat-bot</a></th></tr>
@@ -22,6 +23,7 @@
       <table>
         <tbody>
           <tr><th>Language</th><th>Title and Link</th></tr>
+          <tr><th>JavaScript/C++/SQL</th><th><a href="https://github.com/MatthewObirek/SMIdea">Social Media Idea</a></th></tr>
           <tr><th>Kotlin</th><th><a href="https://github.com/MatthewObirek/CalendarApp">CalendarApp</a></th></tr>
           <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/ThreadTest">ThreadTest</a></th></tr>
           <tr><th>C++</th><th><a href="https://github.com/MatthewObirek/CppUnitTest">CppUnitTest</a></th></tr>
